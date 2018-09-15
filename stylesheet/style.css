@@ -1,3 +1,26 @@
+/*.body {*/
+    /*font-family: 'Roboto', sans-serif;*/
+/*}*/
+
+.ss-my-font {
+    font-family: 'Handlee', cursive;
+    font-weight:bold;
+}
+
+.ss-my-font2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.ss-prj-title {
+    /*font-size: 21px;*/
+    font-size: 24px;
+}
+
+.ss-prj-content {
+    /*font-size: 14px;*/
+    font-size: 16px;
+}
+
 .ss-linkedin-blue{
     color: rgb(0,119,181) !important;
 }
@@ -6,12 +29,20 @@
     color: white !important;
 }
 
+.ss-black-font{
+    color: black !important;
+}
+
 .ss-collapsible-top-padding{
     padding-top: 15px;
 }
 
 .ss-bottom-margin{
     margin-bottom: 2px;
+}
+
+.ss-bottom-margin2{
+    margin-bottom: 60px;
 }
 
 .img-circle {
