@@ -2,6 +2,10 @@
     /*font-family: 'Roboto', sans-serif;*/
 /*}*/
 
+#navbar-items {
+    color: black !important;
+}
+
 .ss-my-font {
     font-family: 'Handlee', cursive;
     font-weight:bold;
@@ -9,6 +13,11 @@
 
 .ss-my-font2 {
     font-family: 'Raleway', sans-serif;
+}
+
+.ss-my-font3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
 }
 
 .ss-prj-title {
@@ -58,7 +67,7 @@
 }
 
 .ss-navbar-menu-items-color{
-    color: grey !important;
+    color: black !important;
 }
 
 .ss-navbar-transparent{
